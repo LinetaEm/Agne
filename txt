@@ -1,0 +1,4 @@
+Prekes kaina 100Eur
+reikia f-jos, kuri grazina pilna suformuota kaina su PVM, 
+kuri bus naudojama ant prekes etiketes
+pvz.: 121Eur
